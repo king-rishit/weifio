@@ -1157,3 +1157,4 @@
 2026-06-08 09:25:50 - Add protocol.py
 2026-06-08 16:17:30 - Add _manylinux.py
 2026-06-08 13:38:07 - Add subprocess.py
+2026-06-08 15:58:59 - Add serializer.py
