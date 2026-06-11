@@ -1486,3 +1486,4 @@
 2026-06-11 11:39:21 - Add __init__.py
 2026-06-11 16:47:50 - Add compat.py
 2026-06-11 15:44:40 - Add langrussianmodel.py
+2026-06-11 19:10:19 - Add errors.py
